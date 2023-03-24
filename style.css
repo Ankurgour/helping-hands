@@ -190,7 +190,7 @@ body
 .product
 {
     float:left;
-    background-image: url("images/poor.jpg");
+    background-image: url("poor.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
